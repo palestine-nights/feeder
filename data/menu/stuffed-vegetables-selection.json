@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kusa w Wara",
+    "description": "Zucchini and vine leaves stuffed with rice and Meat, cooked in savory sauce. Available as a vegetarian dish (pre-order only).",
+    "price": 3.500,
+    "category_id": 6,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Malfoof",
+    "description": "Cabbage stuffed with Meat and rice, enriched with garlic and dry mint.",
+    "price": 3.500,
+    "category_id": 6,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Kusa w Batenjan",
+    "description": "Zucchini and Eggplant stuffed with rice and Meat and cooked in tomato sauce. Available as a vegetarian dish (pre-order only).",
+    "price": 3.500,
+    "category_id": 6,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  }
+]

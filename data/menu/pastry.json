@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Cheese Mixed Pastry Platter",
+    "price": 3.000,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Zaatar Mixed Pastry Platter",
+    "price": 3.000,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Meat Mixed Pastry Platter",
+    "price": 3.000,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Spinach Mixed Pastry Platter",
+    "price": 3.000,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Kishk Mixed Pastry Platter",
+    "price": 3.000,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Cheese MANKOOSHEH",
+    "price": 2.000,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Zaatar MANKOOSHEH",
+    "price": 1.500,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Meat MANKOOSHEH",
+    "price": 2.500,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Cheese SHAKHTOORAH",
+    "price": 2.000,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Zaatar SHAKHTOORAH",
+    "price": 1.500,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  },
+  {
+    "name": "Meat SHAKHTOORAH",
+    "price": 2.500,
+    "category_id": 9,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "description": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Adas soup",
+    "description": "Our Lentil soup causes addiction, try it once and never forget it’s unique taste.",
+    "price": 2,
+    "category_id": 1,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Vegetable soup",
+    "description": "Vegetables, vermicelli and our special spices all together create a great vegetable soup to indulge your tastebuds.",
+    "price": 2,
+    "category_id": 1,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Freekeh soup",
+    "description": "Palestinian nutritious soup. Freekeh grain is high in protein, fiber and iron that will recharge you after a long working day.",
+    "price": 2,
+    "category_id": 1,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Red soup",
+    "description": "Red soup or Soup of Ramadan is the most popular soup for fasting people. Thick, smooth.",
+    "price": 2,
+    "category_id": 1,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  }
+]

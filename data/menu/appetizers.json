@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Mutabbal",
+    "description": "Pureed Chickpeas with tahini, lemon juice and a touch of garlic.",
+    "price": 2.000,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Hummus",
+    "description": "Chargrilled aubergine blended with tahini and lemon juice topped with fresh pomegranate seeds.",
+    "price": 2.000,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Hummus with Meat",
+    "description": "",
+    "price": 2.500,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Musabbaha",
+    "description": "Traditional palestinian mixture of broad beans and chickpeas with touch of garlic and tahina sauce. Seasoned with special mixture of sweet and chilly peppers and olive oil.",
+    "price": 2.000,
+    "category_id": 2,
+    "image_url": "https://lh3.googleusercontent.com/HT4V2wtF2wl99Q_LXKl1QPL7wcQFjqaacu9Z3YKVae2yPgWwuIG26FPMp2mndMq6g6euAqYVM95h8eFK65Zh38eM6XnxdHIWL2gENZWy1SHjWApUS1-7DGl4E1sYko0umPrb4D68rhaM2CRmzOWuPyYSiJ6jJCEWx_sQp-UXp9J5lPllsXzGVDtgF7GUzwkJMyHzDPhVT0mw_miAh4yKOZlntYMlbTJd54Yj-G7WWtAAlVCbKuTDBOaUe2ILlzmZVQzJzY0Ksf47Ep5uKuL1LrpaMLvDXEaQeIvpLHRw6BazrSr2Y3mTfB1KdO78jThopCFG29cJW519yDLZOIH0nGyzJ-QMjjGdA_ZB6rAirvxGAYSE8tUIwgSnPNWGCxaIksQgMr1p20IpJosdSBDAh05hxCdm0IP671e8nwQXAIspKPZi690Htm_nkga34MfQ7BhOp4MHAX_M6HUAUCknK3cmNTVq7HhGSFG-ZvS5BG8mC3R2ZmWIPWvVREHeSEkw0GF1NTKI6__S5VXNQPffdFf4xx9t8x_wkLVMS6XcSeNTgDc-o0c_zBA1ivdAlar-4UbxbYrMg3R2QT800zbfdGSsBoU49jRqs21JtS7n5XinAPpnpPpY5zdkyP6cDP2s0LdVkyuNIVC3jARhtShYjVDio247WYjdPBjY1qwE4dYmi3uGsIIGHnh7mrboqWThqQapQO1Kqs1H4JQQyFs=w1600-h1066-no"
+  },
+  {
+    "name": "Foul Mudammas",
+    "description": "Broad beans paste with garlic and olive oil.",
+    "price": 2.000,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Waraq Enab",
+    "description": "Popular middle eastern appetizer served in Palestinian way: known by it’s tiny size our wine leaves are rich in flavor of herbs, pomegranate seeds and pomegranate syrup.",
+    "price": 2.500,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Fried Kubba",
+    "description": "Crispy outside and jucy inside our Kubba will let you fall in love with it’s taste.",
+    "price": 3.000,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Falafel",
+    "description": "Deep fried balls of chickpeas and favs beans mixture enriched with special spices and fresh herbs.",
+    "price": 3.000,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Galayet Bandora",
+    "description": "Tomato stew cooked of hand-picked tomatoes, herbs and spices, topped with  chilly pepper (optional).",
+    "price": 3.000,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Galayet Bandora with Meat",
+    "description": "Tomato stew cooked of hand-picked tomatoes, herbs and spices, topped with  chilly pepper (optional).",
+    "price": 3.500,
+    "category_id": 2,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  }
+]

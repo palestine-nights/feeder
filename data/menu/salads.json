@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Jarjeer Salad",
+    "price": 1.750,
+    "description": "Rocca salad with tomato, onion and pomegranate, seasoned with lemon, olive oil and pomegranate syrop.",
+    "category_id": 4,
+    "image_url": "https://lh3.googleusercontent.com/NnroCgP-RzLhLkVCOpoRoXkxe-4NK76ox-h_WumXbiStvzIEKIO2i_riTsWOQHSbDujAN-iKlfXw4NHsC4EuFYZJj22qn2LJaBaGoaiPd2Rbm8KrA1GUHZ-zJvxuIeaf3AphcaT78m2wXkse_gONqQ9GyEwuVAYb2SAZKEJjkeVh47ztrV8OQoeM_XjztrM11ojLB_yqN2_5c7WTdQpVvg2rfoSd6BhZe1hNFY43qCkmZfh1eaZgaOWpnXRjaoZNFjn1a7SrBFheKHzhTtqYJ1x2qWw4TzsJo_1OAYHfZi471FPEnKU59yoECDeVdI2pSq1zsDlH2HkEW3Qx09NR1ajVCQjBV4NMksVipT3VKh6a6SerexqZc2OliwPSF94PfTHNaskBclu_5biv2UHIso9T064btoKsJUkuRay-uLhTUA4lg88QCraJudr74feXrsLyeP0Vu8zMp4JlM4GDyko6mFj1v90zcr5Vx9ZBex1qc9UB_OrBxHFj6hsZhMEZ5hEtz5nPWBLt-qFY4oWXLtKEraZN1_1wq_IqUw2x8FZ4byK3WXEN-1wgGNTUhUGSW-ghZKD2oeNqNSKDh1iStxb4X7N4hA1kl1SqZbFS-gvyMlW8ACp5auLz-FjoE3j6f66wUdKov6MjJEAy1g1TXMKSbu68jSrBmNwjw5qykxs6X-HB1irv6U20KugpE4NdjmM3Lvq3j8bsHPT6qsI=w1600-h1066-no"
+  },
+  {
+    "name": "Tabbouleh",
+    "price": 1.500,
+    "description": "Chopped parsley, spring onions, crashed wheat and tomato seasoned with our special tabboula sauce to indulge your taste buds.",
+    "category_id": 4,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Fattoush",
+    "price": 1.750,
+    "description": "Refreshing mixture of hand-picked vegetables, mouthwatering seasoning, fried bread and pomegranate.",
+    "category_id": 4,
+    "image_url": "https://lh3.googleusercontent.com/8VZkY8hjAmsDp_PbOeQacCGHHWHzB9DsobVbvEdr8852K260s5HU-Cyh4giLEVawj2CWDN1ozUd-0iZMqCbwm0kZ9lnUpvDKKiDZsOA3YkNdVonDT1b4DoL097aDcm-QlSJfgDPD6N0A3jPd5CcrDK29oGBSVU2mXU359toQ1u3-3TQEk8_Bmq9SP2Y-FNetbMM_Ll24Oz4eDzJ4BS7aiUKrA6q6vj3hQwnZpeoCBBaO7tTskRkPFGo1z_TYkJ9k3-GKh0kTujJiyuFF1eMiAwYzKWPknbEvxSNptAWAgpCQxNbY1Adxtcsoz6hN0XY2Y5XWFsvHfkCg__RS5vNwSwasb5VpmUMak7R0ZOHDhLdTDs6BfQhLxcqqsUrswMsI7-1vfHW-9QqHNXFefutQYvUlAbKtWrjHGyt7IrUvwXKUipHvkXU-WUWnDvB4TjP1o35VTzX9Dn_b2inm1ebl_h9ayAm8F0rbfvYzbf65eqFoTzNeJgLNKfG5BppGf8OBhDCaiZgwHdCvxWyAIQqV7TiojYntZwz3OGcW5ObhA72Kv7j-efOHBxegYqrqvdLzRF2YUGHnrRn9N92D22eZxcIUssBK8VNTPB8rPxpTACjEsROxYEyPLGiJySQbf-cMliuENBQrGtVDNmNu6vFn_FErTNtDpB1KKLJpnI1Cm_ZGPF5XVm8A78dIu5E5n8CumHwWB8nmHmUNQQ_oxuw=w1600-h1150-no"
+  },
+  {
+    "name": "Green Salad",
+    "price": 1.750,
+    "description": "Fresh zesty mixture of vegetables ready to please even the most picky customer.",
+    "category_id": 4,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Mixed Vegetables plate",
+    "price": 1.750,
+    "description": "Spring onions and rocca to accompany a plate of your choice.",
+    "category_id": 4,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Cucumber in Yogurt",
+    "price": 1.750,
+    "description": "Traditional Palestinian salad : tiny cubes of cucumber in zesty spiced yogurt sprinkled with dry mint. Best with Maqloobah or Qidra dishes.",
+    "category_id": 4,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  }
+]

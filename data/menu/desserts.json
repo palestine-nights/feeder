@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Konafa Plate",
+    "price": 2.500,
+    "description": "Dessert made with thin noodle-like pastry, soaked in sweet, sugar-based syrup. Layered with magic and passion. Our kunafa includes special ingredients and cheese hand-crafted by our chef.",
+    "category_id": 11,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Konafa Tray 4+",
+    "price": 9.000,
+    "description": "Dessert made with thin noodle-like pastry, soaked in sweet, sugar-based syrup. Layered with magic and passion. Our kunafa includes special ingredients and cheese hand-crafted by our chef.",
+    "category_id": 11,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Konafa Tray 8+",
+    "price": 15.000,
+    "description": "Dessert made with thin noodle-like pastry, soaked in sweet, sugar-based syrup. Layered with magic and passion. Our kunafa includes special ingredients and cheese hand-crafted by our chef.",
+    "category_id": 11,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Halawit Al Jibin",
+    "price": 2.500,
+    "description": "This dessert is made of a Semolina and cheese dough, filled with cream.",
+    "category_id": 11,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Mohalabiya",
+    "price": 1.500,
+    "description": "Milk pudding with rose water served with pistachio and rose leaves on the top.",
+    "category_id": 11,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  },
+  {
+    "name": "Ruz b Haleeb",
+    "price": 1.500,
+    "description": "Rice pudding with added goodness of crunchy pistachios and flavoured with orange blossom water.",
+    "category_id": 11,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+  }
+]
