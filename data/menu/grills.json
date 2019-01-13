@@ -1,30 +1,34 @@
 [
   {
     "name": "Kebab",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "price": 3.000,
-    "category_id": 8
+    "category_id": 8,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Sheesh Tawook",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "price": 3.000,
-    "category_id": 8
+    "category_id": 8,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Half Grilled Chicken",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "price": 2.100,
-    "category_id": 8
+    "category_id": 8,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Full Grilled Chicken",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "price": 3.900,
-    "category_id": 8
+    "category_id": 8,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   }
 ]

@@ -4,20 +4,23 @@
     "description": "Layers of fried bread, chickpeas, tahini sause and fried minced Meat. Sprinkled with pine nuts and parsly.",
     "price": 3.000,
     "category_id": 3,
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Fattet Batenjan",
     "description": "Layers of fried bread, eggplant, tahini sause and fried minced Meat. Sprinkled with pine nuts and parsly.",
     "price": 3.500,
     "category_id": 3,
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Fattet Dajaj",
     "description": "Layers of fried bread, rice, ntahini sause and boneless Chicken. Sprinkled with pine nuts and parsly.",
     "price": 4.000,
     "category_id": 3,
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg"
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   }
 ]

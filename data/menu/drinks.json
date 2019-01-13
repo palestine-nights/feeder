@@ -1,72 +1,82 @@
 [
   {
     "name": "Tea Cup",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "Red Tea, Tea with Mint, Tea with Miramiya, Tea with Cardamom, Tea with Milk, Green tea.",
     "price": 1.500,
-    "category_id": 10
+    "category_id": 10,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Tea Pot",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "Red Tea, Tea with Mint, Tea with Miramiya, Tea with Cardamom, Tea with Milk, Green tea.",
     "price": 2.500,
-    "category_id": 10
+    "category_id": 10,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Turkish Coffee",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "price": 1.500,
-    "category_id": 10
+    "category_id": 10,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Shaneena",
-    "image_url": "https://lh3.googleusercontent.com/gnTYbPBd6n84d5EFqiESiJ3q-dYC1UUHAuSW9e2HmVJNRdOnjyzcbw4drYHhR9ZAhdoIuENHoy642aMb9abIoagc0xJNN6jgz2tQ80xU648HFbAE446xxSwxl9EICm4UWq3cN5tQigoru0uUtW9uxNVddtIMYEyhXcj0gv4XIKbIxsEdskmNPdhhhvVCFpnJUb8uqef2IgR-q1kReiXokM33-qXjsXQZ6fHAHzaKMv5HEu5J18hDAK0AkrSDYIv-qgoJOrTB-zoPit5qWruEd9DlHgFPZmA81khXpNfwVbe70Bc2K-pfRxhnrT385cOpIBxOPH0b76IOxITbaD6mEjNjWk0VVlhQJLCfBGV_MooOL09tPWjDWuwZOk_bVNtIfA9tkhYJ2X999wfaT2eWd3EOUCfQjwu4YSGfOcGINBfcnLd9MegmHdgmyabQngLFDRKt63__IFek3iJs2mxJZ3P5CREnOaaLxxQor5MaTmU-2cznqPcR72_QmAZLBM_PpgwraTW3cQFllgMdpQfgrINobUImc2FRVCWnsaTM6Um_DNbPEjvDzMf0uFsz6EHTF-NN_u-2Rgx9EZ4x0cbFv_JGSPK5JFF6t6hOUgvOd4uwc_CY94Ydf4bFcMK_mR1NV4vjRO0bH_mE-wyOLJKBJLDC4Jcaz_2zo2HFjVqywS-7Y-JBRqygswKn51gEY1qq8UMbS3At30iHFxlx0N0=w1600-h1066-no",
     "description": "",
     "price": 2.000,
-    "category_id": 10
+    "category_id": 10,
+    "image_url": "https://lh3.googleusercontent.com/gnTYbPBd6n84d5EFqiESiJ3q-dYC1UUHAuSW9e2HmVJNRdOnjyzcbw4drYHhR9ZAhdoIuENHoy642aMb9abIoagc0xJNN6jgz2tQ80xU648HFbAE446xxSwxl9EICm4UWq3cN5tQigoru0uUtW9uxNVddtIMYEyhXcj0gv4XIKbIxsEdskmNPdhhhvVCFpnJUb8uqef2IgR-q1kReiXokM33-qXjsXQZ6fHAHzaKMv5HEu5J18hDAK0AkrSDYIv-qgoJOrTB-zoPit5qWruEd9DlHgFPZmA81khXpNfwVbe70Bc2K-pfRxhnrT385cOpIBxOPH0b76IOxITbaD6mEjNjWk0VVlhQJLCfBGV_MooOL09tPWjDWuwZOk_bVNtIfA9tkhYJ2X999wfaT2eWd3EOUCfQjwu4YSGfOcGINBfcnLd9MegmHdgmyabQngLFDRKt63__IFek3iJs2mxJZ3P5CREnOaaLxxQor5MaTmU-2cznqPcR72_QmAZLBM_PpgwraTW3cQFllgMdpQfgrINobUImc2FRVCWnsaTM6Um_DNbPEjvDzMf0uFsz6EHTF-NN_u-2Rgx9EZ4x0cbFv_JGSPK5JFF6t6hOUgvOd4uwc_CY94Ydf4bFcMK_mR1NV4vjRO0bH_mE-wyOLJKBJLDC4Jcaz_2zo2HFjVqywS-7Y-JBRqygswKn51gEY1qq8UMbS3At30iHFxlx0N0=w1600-h1066-no",
+    "active": true
   },
   {
     "name": "Tamer Hindi",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "category_id": 10,
-    "price": 2.000
+    "price": 2.000,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Fresh Juice",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "category_id": 10,
-    "price": 2.000
+    "price": 2.000,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Vimto",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "category_id": 10,
-    "price": 1.500
+    "price": 1.500,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Soft Drinks",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "category_id": 10,
-    "price": 0.500
+    "price": 0.500,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Water",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "category_id": 10,
-    "price": 0.500
+    "price": 0.500,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   },
   {
     "name": "Perrier Water",
-    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
     "description": "",
     "category_id": 10,
-    "price": 1.000
+    "price": 1.000,
+    "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
+    "active": true
   }
 ]

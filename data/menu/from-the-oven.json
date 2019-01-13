@@ -3,56 +3,64 @@
     "name": "Small tray of Kufta Bil Bandoora",
     "description": "A juicy and rich in flavors layer of minced Meat mixture covered with slices of potato and tomato cooked with tomato sauce in a pot. Served with bread. Preparation time: 30 minutes.",
     "category_id": 7,
+    "price": 3.500,
     "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
-    "price": 3.500
+    "active": true
   },
   {
     "name": "Big tray of Kufta Bil Bandoora",
     "description": "A juicy and rich in flavors layer of minced Meat mixture covered with slices of potato and tomato cooked with tomato sauce in a pot. Served with bread. Preparation time: 30 minutes.",
     "category_id": 7,
+    "price": 6.000,
     "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
-    "price": 6.000
+    "active": true
   },
   {
     "name": "Small tray of Kufta Bil Thine",
     "description": "A juicy and rich in flavors layer of minced Meat mixture covered with slices of potato and cooked in thick tahini sauce in a pot. Sprinkled with golden brown pine nuts, to reach the best of its taste. Served with bread. Preparation time: 30 minutes.",
     "category_id": 7,
+    "price": 4.500,
     "image_url": "https://lh3.googleusercontent.com/VZ3hdXEEyLbDF5TEkWOevXlMjVc-hW5oVgSw98cnUwct6gEjYKLN8I0-yYoVNqPwnwCexCscyQF377Sfwmmr74Vb1wVGFIWG5KKo8X_DJen0CdqN2ZwR-2DWLMn259KzSX40QtxbNG3-Lk-v11MvlxT85vH6Uf33Al7v-X91Bu5R_PdoELyPKVOKHsTnYw-P9yC_ngwQmMXz-44c2TpUujc3plj1CfYHtK7R4Klk7O0gmRh7G2E0gY9vyyw_fBSgBMto1OoneuLA-Sw0dodqZxaAnbm7q9ncIIRaI1BmsqWq8ByVy1CcMYRVz6nRlglIOwjF0G3lK8WPrOPKTvsJDQuNwgWXXKshTxdXm7bBGamYvZErvo_E8kTPp21LML0lJpGf-QdADnf2yDF31mfNLmkjsxOD9jpkVaG5fUEiTyn-LLTf-6IvVAhyZm5am1nP9IsinmmkHHiCvUZD_DUGgTFz2fgFv9Wr19fTymkPasIJiT5GaroABKcqWZ7p-NIUj6fgR1KOakdTxMFHHHneJaBYMBsFwsNrIF-agSFe7Ml3DbM8CLcYs6gSBwbSJ5Iz5wsahJG-CKii-Uz2XWUpGag354ANThXQKvCHABIiFSCsmexxAQ-6WOYuujZNsPW91tqGCXyYup_TsJ4NISTj5ry9DJsA-uvXrPpJD-XATHsWzIRttOSqQBmtXFqN4wE0vWpqnM9-jBeWkQAZikY=w1600-h1066-no",
-    "price": 4.500
+    "active": true
   },
   {
     "name": "Big tray of Kufta Bil Thine",
     "description": "A juicy and rich in flavors layer of minced Meat mixture covered with slices of potato and cooked in thick tahini sauce in a pot. Sprinkled with golden brown pine nuts, to reach the best of its taste. Served with bread. Preparation time: 30 minutes.",
     "category_id": 7,
+    "price": 7.000,
     "image_url": "https://lh3.googleusercontent.com/VZ3hdXEEyLbDF5TEkWOevXlMjVc-hW5oVgSw98cnUwct6gEjYKLN8I0-yYoVNqPwnwCexCscyQF377Sfwmmr74Vb1wVGFIWG5KKo8X_DJen0CdqN2ZwR-2DWLMn259KzSX40QtxbNG3-Lk-v11MvlxT85vH6Uf33Al7v-X91Bu5R_PdoELyPKVOKHsTnYw-P9yC_ngwQmMXz-44c2TpUujc3plj1CfYHtK7R4Klk7O0gmRh7G2E0gY9vyyw_fBSgBMto1OoneuLA-Sw0dodqZxaAnbm7q9ncIIRaI1BmsqWq8ByVy1CcMYRVz6nRlglIOwjF0G3lK8WPrOPKTvsJDQuNwgWXXKshTxdXm7bBGamYvZErvo_E8kTPp21LML0lJpGf-QdADnf2yDF31mfNLmkjsxOD9jpkVaG5fUEiTyn-LLTf-6IvVAhyZm5am1nP9IsinmmkHHiCvUZD_DUGgTFz2fgFv9Wr19fTymkPasIJiT5GaroABKcqWZ7p-NIUj6fgR1KOakdTxMFHHHneJaBYMBsFwsNrIF-agSFe7Ml3DbM8CLcYs6gSBwbSJ5Iz5wsahJG-CKii-Uz2XWUpGag354ANThXQKvCHABIiFSCsmexxAQ-6WOYuujZNsPW91tqGCXyYup_TsJ4NISTj5ry9DJsA-uvXrPpJD-XATHsWzIRttOSqQBmtXFqN4wE0vWpqnM9-jBeWkQAZikY=w1600-h1066-no",
-    "price": 7.000
+    "active": true
   },
   {
     "name": "Small tray of Dajaj Mhamar",
     "description": "If you want to try any true palestinian dish, you should order this roasted Chicken and potato tray, cooked with olive oil and sumac. Served with bread. Preparation time: 45 minutes.",
     "category_id": 7,
+    "price": 3.500,
     "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
-    "price": 3.500
+    "active": true
   },
   {
     "name": "Big tray of Dajaj Mhamar",
     "description": "If you want to try any true palestinian dish, you should order this roasted Chicken and potato tray, cooked with olive oil and sumac. Served with bread. Preparation time: 45 minutes.",
     "category_id": 7,
+    "price": 5.000,
     "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
-    "price": 5.000
+    "active": true
   },
   {
     "name": "Msakhan",
     "description": "Two freshly baked thin crust bread pitas covered with a layer of onion, cooked in olive oil and sumac, topped with half Chicken. Best lunch for cold winter days.",
     "category_id": 7,
+    "price": 3.000,
     "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
-    "price": 3.000
+    "active": true
   },
   {
     "name": "Chiken Pot",
     "category_id": 7,
     "description": "If you are up to eat something exotic and new - order the Chicken pot. Half Chicken cooked with potato and bell pepper in olive oil and spices. Preparation time: 45 minutes.",
+    "price": 4.500,
     "image_url": "https://edith-magazine.com/wp-content/uploads/2014/11/img-placeholder-dark-1100x678.jpg",
-    "price": 4.500
+    "active": true
   }
 ]
